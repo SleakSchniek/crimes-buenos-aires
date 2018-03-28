@@ -2,6 +2,8 @@
 
 Scatterplot visualization of coordinates from a dataset on crimes in Buenos Aires. 
 
+![Screenshot](scatterplot_crimes.jpg "Scatterplot")
+
 ## License
 
 Copyright © 2018 Anika Redmann
